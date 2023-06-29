@@ -1,6 +1,8 @@
 <h1>Hi 👋, I'm Shanmadi</h1>
 <h3>A passionate Frontend Developer</h3>
 
+![image](https://github.com/shanmadimn/Shanmadimn/assets/101126296/4e9eada5-ca6b-42ca-bb48-9af70bd6cf45)
+
 
 - 🌱 I’m currently learning **Artificial Intelligence**
 
